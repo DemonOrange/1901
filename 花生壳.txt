@@ -1,0 +1,3 @@
+ÓÊÏä:foxmail,outlook
+°æ±¾¿ØÖÆÆ÷:git,svn
+VMware
